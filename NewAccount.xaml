@@ -199,7 +199,7 @@
                     </ui:TypeInto>
                     <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" EmptyField="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" DisplayName="Type Into 'TEXTAREA  442:2529;a'" sap:VirtualizedContainerService.HintSize="334,134" sap2010:WorkflowViewState.IdRef="TypeInto_3">
                       <ui:TypeInto.Target>
-                        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="4134ac69-0a37-4cd9-9a00-0711ea093d0d" InformativeScreenshot="c6b1fe4df4b1ddcd88ac0e4c69a09944" Selector="&lt;html app='chrome.exe' title='New Account | Salesforce' /&gt;&lt;webctrl id='input-230' tag='TEXTAREA' /&gt;">
+                        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="4134ac69-0a37-4cd9-9a00-0711ea093d0d" InformativeScreenshot="c6b1fe4df4b1ddcd88ac0e4c69a09944" Selector="&lt;html app='chrome.exe' title='New Account | Salesforce' /&gt;&lt;webctrl tag='TEXTAREA' aaname='Billing Street' /&gt;">
                           <ui:Target.TimeoutMS>
                             <InArgument x:TypeArguments="x:Int32" />
                           </ui:Target.TimeoutMS>
